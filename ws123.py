@@ -19,4 +19,4 @@ for ts, buf in pcap:
         continue
 
 
-f.close()
+
